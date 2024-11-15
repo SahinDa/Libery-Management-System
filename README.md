@@ -5,7 +5,8 @@ A file-based CLI application to simplify library record management.
 
 - Manage user and book records through features like adding, searching, and deleting data.
 - File-based storage system for persistent and secure data management.
-# Tech Stack: C++
+# Tech Stack:
+ - C++
 
 # Key Challenges:
 
